@@ -49,7 +49,7 @@ customer-churn-analysis/
 │   └── feature_engineering.py
 ├── README.md
 └── requirements.txt
-'''markdown
+```
 
 ## Analysis Workflow
 
@@ -177,9 +177,9 @@ These outputs are stored in the `outputs/` directory.
 
 4. Run the notebooks in order:
 
-    01_data_exploration.ipynb
-    02_feature_analysis.ipynb
-    03_churn_modeling.ipynb
+- `01_data_exploration.ipynb`
+- `02_feature_analysis.ipynb`
+- `03_churn_modeling.ipynb`
 
 ## Potential Next Steps
 
